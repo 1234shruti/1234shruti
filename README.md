@@ -67,6 +67,21 @@ I practice Data Structures & Algorithms using Java to strengthen my problem-solv
 
 ---
 
+
+## 📊 GitHub Contributions
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=1234shruti&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1234shruti&hide_border=true" />
+
+</p>
+---
 ## 📫 Connect With Me
 
 <p align="center">
