@@ -13,7 +13,13 @@ I'm a Computer Engineering student focused on Java programming, Data Structures 
 - 🌐 Interested in Full-Stack Development
 - 🚀 Building practical real-world applications
 - 🤖 Exploring AI and modern technologies
-- 📫 Email: **jumbadshruti97@gmail.com**
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: **[jumbadshruti97@gmail.com](mailto:jumbadshruti97@gmail.com)**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1VN16r6Q2rIsGAtJDuQ7l_5JxrvVQBDq7/view?usp=drivesdk)**
 
 ---
 
@@ -77,7 +83,7 @@ I practice Data Structures & Algorithms using Java to strengthen my problem-solv
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
 
@@ -91,10 +97,6 @@ I practice Data Structures & Algorithms using Java to strengthen my problem-solv
 
 <a href="https://leetcode.com/u/Shruti_Jumbad/">
 <img src="https://img.shields.io/badge/LeetCode-Shruti__Jumbad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:jumbadshruti97@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
