@@ -15,39 +15,47 @@ I'm a Computer Engineering student focused on Java programming, Data Structures 
 - 🤖 Exploring AI and modern technologies
 - 📫 Email: **jumbadshruti97@gmail.com**
 
+---
 
-
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### ⭐ PlaceMate
+
 Full-stack placement and job management platform connecting students, recruiters, and administrators.
 
 **Tech:** React.js • Vite • Node.js • Express.js • MongoDB • JWT • REST APIs
 
+🔗 [View Repository](https://github.com/1234shruti/placemate.git)
 
+---
+
+## 📂 Other Projects
 
 ### 🤝 SevaLink
+
 AI-powered volunteer coordination platform for managing volunteers, tasks, and social-impact resources.
 
 **Tech:** React.js • JavaScript • Gemini AI • AWS S3 • Map/Geolocation API
 
+🔗 [View Repository](https://github.com/1234shruti/SevaLink.git)
 
-
-
-
-### 📚 DSA
-A collection of Data Structures and Algorithms problems and Java solutions for practicing problem-solving and coding skills.
-
-**Language:** Java
-
-
-
-
+---
 
 ### 🤖 MailTrace AI
-An AI-powered project focused on email analysis and intelligent processing.
 
+AI-powered project focused on email analysis and intelligent processing.
 
+🔗 [View Repository](https://github.com/1234shruti/mailtrace-ai.git)
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I practice Data Structures & Algorithms using Java to strengthen my problem-solving and coding skills.
+
+🔗 [View DSA Repository](https://github.com/1234shruti/DSA.git)
+
+---
 
 ## 🛠️ Languages & Tools
 
