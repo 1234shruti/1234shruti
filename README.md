@@ -75,11 +75,11 @@ I practice Data Structures & Algorithms using Java to strengthen my problem-solv
 
 ## 📊 GitHub Contributions & Streak
 
+## 📊 GitHub Contributions & Streak
+
 <p align="center">
 
-<a href="https://github.com/1234shruti">
-  <img src="https://streak-stats.demolab.com/?user=1234shruti&theme=default&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="./profile/streak.svg" alt="GitHub Contributions & Streak" />
 
 </p>
 
