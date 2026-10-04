@@ -47,11 +47,13 @@ AI-powered volunteer coordination platform for managing volunteers, tasks, and s
 
 ---
 
-### 🤖 MailTrace AI
+### 🖐️ AirTouch
 
-AI-powered project focused on email analysis and intelligent processing.
+Touchless mouse control system using real-time hand gesture recognition to perform cursor movement, clicking, scrolling, drag-and-drop, and browser navigation.
 
-🔗 [View Repository](https://github.com/1234shruti/mailtrace-ai.git)
+**Tech:** Python • OpenCV • MediaPipe • NumPy • PyAutoGUI
+
+🔗 [View Repository](https://github.com/1234shruti/AirTouch.git)
 
 ---
 
