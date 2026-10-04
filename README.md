@@ -19,7 +19,7 @@ I'm a Computer Engineering student focused on Java programming, Data Structures 
 ## 📬 Contact Me
 
 - 📧 Email: **[jumbadshruti97@gmail.com](mailto:jumbadshruti97@gmail.com)**
-- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1VN16r6Q2rIsGAtJDuQ7l_5JxrvVQBDq7/view?usp=drivesdk)**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1wMGLD9vpwp0YojOVUT24UjDrbsGmf4Ov/view?usp=drivesdk)**
 
 ---
 
