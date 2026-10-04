@@ -77,7 +77,9 @@ I practice Data Structures & Algorithms using Java to strengthen my problem-solv
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1234shruti&theme=default&hide_border=true" />
+<a href="https://github.com/1234shruti">
+  <img src="https://streak-stats.demolab.com/?user=1234shruti&theme=default&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </p>
 
