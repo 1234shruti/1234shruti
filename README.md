@@ -75,7 +75,6 @@ I practice Data Structures & Algorithms using Java to strengthen my problem-solv
 
 ---
 
-## 📊 GitHub Contributions & Streak
 
 ## 📊 GitHub Contributions & Streak
 
